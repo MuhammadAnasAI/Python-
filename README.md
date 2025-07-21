@@ -1,2 +1,2 @@
-# Python-
+# Python-Basic
 Artificial Intelligence Bootcamp
